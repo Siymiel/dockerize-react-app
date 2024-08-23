@@ -2,17 +2,6 @@
 
 This project demonstrates how to dockerize a React application for different environments (development and production) using Docker and Docker Compose.
 
-## Project Structure
-
-```plaintext
-├── Dockerfile.dev
-├── Dockerfile.prod
-├── docker-compose.yml
-├── docker-compose.override.yml (optional)
-├── .env
-├── README.md
-└── ... (other React app files)
-```
 
 ### Dockerfile.dev
 
